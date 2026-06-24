@@ -1,4 +1,4 @@
-# 🌸Valakappu Celebration Board
+# Valakappu Celebration Board
 A beautifully crafted Valakappu ceremony board designed using HTML and CSS, featuring traditional cultural elements and a responsive layout.
 
 ## Features
